@@ -28,7 +28,7 @@ HELP_TEXT = """
 
 ABOUT_TEXT = """
 <b>⚜ Mʏ ɴᴀᴍᴇ : PS-FileToLinkBot</b>\n
-<b>🔸Mᴇᴇᴛ Mᴇ Hᴇʀᴇ : <a href='https://telegram.me/PhoenixXGuardians'>Movies</a></b>\n
+<b>🔸Mᴇᴇᴛ Mᴇ Hᴇʀᴇ : <a href='https://telegram.me/PhoenixXGuardians'>Smash it</a></b>\n
 <b>🔹Sᴏᴜʀᴄᴇ Cᴏᴅᴇ : <a href='https://t.me/jack_indeterminacy'>Cʟɪᴄᴋ Hᴇʀᴇ</a></b>\n
 <b>🔹Dᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://telegram.me/jack_indeterminacy'>Jᴀᴄᴋ</a></b>\n
 <b>🔸Sᴜᴘᴘᴏʀᴛ Cʜᴀɴɴᴇʟ : <a href='https://telegram.me/PhoenixBotz'>Join</a></b>"""
